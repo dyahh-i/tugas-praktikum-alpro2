@@ -1,1 +1,3 @@
 # tugas-praktikum-alpro2
+NIM: 109082500130
+NAMA: DYAH IMANSARI
